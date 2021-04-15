@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172117350490",
+    "project_id": "podili-56fa4",
+    "storage_bucket": "podili-56fa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172117350490:android:e050a131ed161ea4f16063",
+        "android_client_info": {
+          "package_name": "com.drugtive.podili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172117350490-du884kf62g6m5rrvufb0hibkj47447qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCUsBv0DKxAdVYgvOBIcSs-V1z8c-lS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172117350490-du884kf62g6m5rrvufb0hibkj47447qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
